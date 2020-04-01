@@ -19,7 +19,7 @@ This repository, in general, hosts the application source code for the final pro
 
 [Project Schedule Page](https://github.com/cu-ecen-5013/final-project-chwe3468/wiki/Schedule)
 
-[Chutao Repository](https://github.com/cu-ecen-5013/final-project-assignment-sast7580)
+[Chutao Repository](https://github.com/cu-ecen-5013/final-project-chwe3468)
 
 [Dhruva Repository](https://github.com/cu-ecen-5013/final-project-D-KG5)
 
