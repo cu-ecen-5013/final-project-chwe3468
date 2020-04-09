@@ -1,15 +1,14 @@
 # ECEN 5013 AESD - Final Project Repository
 
-**TO USE THE RPI:**
-
-
 **Repository owned by - Chutao Wei (GitHub ID: chwe3468)**
 
 This repository contains the final project submissions made by **Chutao Wei** for the ECEN 5013 AESD (Spring-20) class. The project is developed in a team with contributions from **Sam Solondz** and **Dhruva Koley**.
 
 Please, see the overview of this repository below for more details.
 
-**This repository contains the _Application Source Code_ for the final project.**
+
+**Repository info:**
+Please only use this repository for RPi 4
 
 # Repository Overview
 
@@ -19,8 +18,10 @@ This repository, in general, hosts the application source code for the final pro
 
 [Project Schedule Page](https://github.com/cu-ecen-5013/final-project-chwe3468/wiki/Schedule)
 
-[Chutao Repository](https://github.com/cu-ecen-5013/final-project-chwe3468)
+[RPi4 Repository(Chutao)](https://github.com/cu-ecen-5013/final-project-chwe3468)
 
-[Dhruva Repository](https://github.com/cu-ecen-5013/final-project-D-KG5)
+[RPi3B Repository(Dhruva)](https://github.com/cu-ecen-5013/final-project-D-KG5)
 
-[Sam Repository](https://github.com/cu-ecen-5013/final-project-SamSolondz)
+[RPi2B Repository(Sam)](https://github.com/cu-ecen-5013/final-project-SamSolondz)
+
+[Shared Repository](https://github.com/chwe3468/cu-ecen-5013-final-project-shared)
