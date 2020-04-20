@@ -6,9 +6,9 @@ This repository contains the final project submissions made by **Chutao Wei** fo
 
 Please, see the overview of this repository below for more details.
 
-
 **Repository info:**
-Please only use this repository for RPi 4
+Please only use this repository for RPi 4. Now the project has been switch to using DirectFB as the tool to view image instead of trying to use a GUI on RPi 4. Opencv and camera capture has been correcly installed. For camera application, please see shared repository below.
+
 
 # Repository Overview
 
