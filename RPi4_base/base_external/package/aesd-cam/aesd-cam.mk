@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference my camera app
-AESD_CAM_VERSION = '0e8c4260e8267fee46d0b423d55ece0bfced1ce7'
+AESD_CAM_VERSION = '3af3be9f6ec54e22f17bc4b25830f3be214fd512'
 AESD_CAM_SITE = 'git@github.com:chwe3468/cu-ecen-5013-final-project-shared.git'
 AESD_CAM_SITE_METHOD = git
 

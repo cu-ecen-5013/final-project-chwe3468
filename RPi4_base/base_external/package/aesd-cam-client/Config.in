@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_AESD_CAM_CLIENT
+	bool "aesd-cam-client"
+	help
+	  Includes the function that capture image and save it as ppm format and send it server over socket using TCP protocol
