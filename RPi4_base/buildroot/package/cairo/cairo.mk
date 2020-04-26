@@ -41,7 +41,7 @@ HOST_CAIRO_CONF_OPTS = \
 	--enable-interpreter=no \
 	--disable-directfb \
 	--enable-ft \
-	--disable-gobject \
+	--enable-gobject \
 	--disable-glesv2 \
 	--disable-vg \
 	--disable-xlib \
